@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa78344deEdFfabCa6E8eDcB593cc4185Cf5123dc",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xa78344deedffabca6e8edcb593cc4185cf5123dc",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Art4EarthNFT",
+  "SYMBOL": "A4E",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/art4earthnft-v3",
+  "SHOW_BACKGROUND": true
+}
